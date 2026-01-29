@@ -1,0 +1,1 @@
+-- Example BigQuery queries placeholder

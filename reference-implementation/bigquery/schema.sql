@@ -1,0 +1,1 @@
+-- BigQuery schema SQL placeholder
